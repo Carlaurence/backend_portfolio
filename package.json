@@ -4,7 +4,8 @@
   "description": "Api Rest para recibir mensajes enviados mediante mi portafolio web",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "author": "Carlos Salcedo",
   "license": "ISC",
